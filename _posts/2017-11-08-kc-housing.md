@@ -1,4 +1,4 @@
---
+---
 layout: post
 title:  "Housing project."
 date:   2017-08-02
@@ -6,7 +6,6 @@ excerpt: "Kings county housing project."
 project: true
 comments: true
 ---
-
 
 # Very basic housing project:
 
