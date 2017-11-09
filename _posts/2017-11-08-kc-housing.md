@@ -1,15 +1,9 @@
 --
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "Housing project."
+date:   2017-08-02
+excerpt: "Kings county housing project."
 project: true
-tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
 comments: true
 ---
 
