@@ -1,37 +1,28 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: Aspiring data scientist
+tags: [about, Jekyll, theme, JBlog]
 date: 2016-03-21
-comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
-## Preview
+## About
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+This is the blog for an aspiring data scientist. I am PhD holder in physics looking to leverage acquired skills in academia to make a transition to industry with a comprehensive skill sets in scientific computing using the Linux and Windows platforms.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## Skills
 
-## Getting Started
+- MATLAB
+- R, Perl, SQL
+- Shell Scripting (Bash, Tcsh), Python, C/C++, Fortran
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
+## Tools
+
+- LATEX
+- TensorFlow, Keras
+- Amazon AWS, CLI, EC2, AMI, Spark, Hadoop
+- NumPy, Pandas, sklearn
+
+
+
