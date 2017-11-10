@@ -303,7 +303,7 @@ data.price.plot(kind='hist',log=True)
 
 
 
-![png](output_8_1.png)
+![png](output81.png)
 
 
 
@@ -642,7 +642,7 @@ plt.legend()
 
 
 
-![png](output_10_1.png)
+![png](output101.png)
 
 
 
@@ -658,7 +658,7 @@ data.sqft_living.plot()
 
 
 
-![png](output_11_1.png)
+![png](output111.png)
 
 
 # BOX PLOT
@@ -686,7 +686,7 @@ plt.tight_layout()
 ```
 
 
-![png](output_13_0.png)
+![png](output130.png)
 
 
 
