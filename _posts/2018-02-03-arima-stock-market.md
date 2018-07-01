@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title:  "Stock Market Prediction Using ARIMA"
