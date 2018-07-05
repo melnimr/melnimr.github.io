@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Kings county housing"
 date:   2017-11-05
 excerpt: "Notebook for KC housing project."
