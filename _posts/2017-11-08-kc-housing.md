@@ -1,5 +1,5 @@
 ---
-title:  "Kings county housing"
+title:  "Kings County house prices."
 date:   2017-11-05
 excerpt: "Notebook for KC housing project."
 tag:
